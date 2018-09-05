@@ -1,7 +1,5 @@
 # Movie-Ticket-Kiosk
-Turing Movie Ticket Kiosk Program
-
-Allows Users to:
+Turing Movie Ticket Kiosk Program that allows users to:
 - Book specific movies
 - Buy Tickets and Snacks
 - Reserve Seats
